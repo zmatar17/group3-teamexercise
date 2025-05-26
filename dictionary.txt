@@ -1,0 +1,51 @@
+German = English
+
+
+
+Raesfeld = A municipality in the district of Broken in the state of North RhineWestphalia, Germany
+
+Flughafen = Airport
+
+Berlin = Capital and largest city of Germany
+
+Bratwurst = Type of sausage 
+
+Hauptstrasse = Main Street
+
+Brot = Bread
+
+Klimaanlage = Air conditioning
+
+Rammstein = Ramming stone; A band in Germany 
+
+Porsche = Type of car; Also means origins
+
+BMW = Type of car
+
+Biergarten = Beer garden, where beer and food are served
+
+Ratskeller = Tavern or restaurant located in the basement of a town hall
+
+Dirndel = Young woman, a girlfriend or a traditional dress
+
+Lederhosen = Traditional leather pants 
+
+Schloss = Palace/castle
+
+Wettbewerbsfaehig = Competitive
+
+Mehlhase = Bunny
+
+Gebaeck = Pastries
+
+Baeckerei = Bakery
+
+Hund = Dog
+
+Doener = Kebab in bread, popular fast food in Germany 
+
+Apfelkuchen = Apple pie
+
+Schloss Eltz = A medieval castle in the hills above Moselle, Germany
+
+
