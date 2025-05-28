@@ -1,8 +1,8 @@
 Pull Request Links:
 
-Ziad:
+Ziad: https://github.com/Just-In-N-Out/SER316Group4/pull/2
 Dakota:
-Prince:
+Prince: https://github.com/Just-In-N-Out/SER316Group4/pull/1
 Joseph:
 Thomas:
 Colby:
